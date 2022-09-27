@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"TheZipCreator"
+	],
+	"copyright": "Copyright © 2022, TheZipCreator",
+	"description": "Library to parse things via a pushdown automaton",
+	"license": "GNU General Public License v3",
+	"name": "pushdown"
+}
